@@ -1,4 +1,4 @@
-package cn.wzs.wblog.base;
+package cn.wzs.wblog.common.base;
 
 import lombok.Data;
 

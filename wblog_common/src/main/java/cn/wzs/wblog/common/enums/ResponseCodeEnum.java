@@ -1,4 +1,4 @@
-package cn.wzs.wblog.enums;
+package cn.wzs.wblog.common.enums;
 
 /**
  * 响应码

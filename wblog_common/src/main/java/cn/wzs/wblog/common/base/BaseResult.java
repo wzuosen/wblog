@@ -1,6 +1,6 @@
-package cn.wzs.wblog.base;
+package cn.wzs.wblog.common.base;
 
-import cn.wzs.wblog.enums.ResponseCodeEnum;
+import cn.wzs.wblog.common.enums.ResponseCodeEnum;
 import lombok.Data;
 
 import java.io.Serializable;

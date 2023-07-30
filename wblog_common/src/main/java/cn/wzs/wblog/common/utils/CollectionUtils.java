@@ -1,4 +1,4 @@
-package cn.wzs.wblog.utils;
+package cn.wzs.wblog.common.utils;
 
 import java.util.Collection;
 import java.util.Map;
